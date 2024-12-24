@@ -1,0 +1,4 @@
+gradio
+librosa
+numpy
+matplotlib
